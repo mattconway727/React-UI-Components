@@ -7,6 +7,7 @@ const Footer = () => {
       <i class="far fa-comment" />
       <i class="fas fa-retweet" />
       <i class="far fa-heart" />
+      <i class="far fa-envelope" />
     </div>
   );
 };
